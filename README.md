@@ -2,7 +2,6 @@
 PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
 
 ---------------------------------
-
 NHÓM TÁC GIẢ
 - [NGUYỄN ĐẶNG PHƯƠNG NAM](https://github.com/TaolaTrumokehong) (18521125)
 - [NGUYỄN LÊ MINH]()(18520100)
@@ -33,6 +32,11 @@ CÁCH THỰC THI CHƯƠNG TRÌNH
 ----------------------
 
 CÀI ĐẶT
+
+---------------------
+
+GIẢNG VIÊN HƯỚNG DẪN
+NGUYỄN TẤN TOÀN
 
 ---------------------
 THÔNG TIN LIÊN LẠC
