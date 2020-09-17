@@ -35,6 +35,11 @@ CÁCH THỰC THI CHƯƠNG TRÌNH
 CÀI ĐẶT
 
 ---------------------
+GIẢNG VIÊN HƯỚNG DẪN 
+
+NGUYỄN TẤN TOÀN
+
+---------------------
 THÔNG TIN LIÊN LẠC
 <!-- UL -->
 * 18521125@gm.uit.edu.vn    
