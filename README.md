@@ -24,11 +24,15 @@ MÔ TẢ
 - Hệ điều hành: Windows
 - Cài đặt phiên bản Visual Studio 2015 trở lên
 - Cài đặt Windows Forms vào Visual Studio
-
+- Cài đặt Sql server 2014 trở lên
 ---------------------------------------
 
 CÁCH THỰC THI CHƯƠNG TRÌNH
 
+- Đăng nhập với tư cách quản trị viên bằng mã xác minh: Admin # 1
+- Admin tạo tài khoản mới cho nhân viên.
+- Nhân viên chỉ gọi thao tác với hóa đơn và doanh thu
+- Admin có thể sử dụng tất cả các tính năng của ứng dụng Quản lý cửa hàng
 
 ----------------------
 
@@ -41,6 +45,10 @@ THÔNG TIN LIÊN LẠC
 * 18520100@gm.uit.edu.vn
 * 18521125@gm.uit.edu.vn
 
+## 
+Để biết thêm thông tin chi tiết, hãy gọi cho chúng tôi theo số: 0987644753.
 
+## 
+Xin cảm ơn * Mr. Nguyễn Tấn Toàn * đã đồng hành và hướng dẫn nhóm chúng tôi thực hiện dự án.
 
 --------------------------------------HẾT-----------------------------------------------------
